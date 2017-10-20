@@ -1,0 +1,126 @@
+h1{
+
+  height: 103px;
+  float: left;
+  margin-top: 20px;
+  font-family: Arial Black;
+  font-size: 44px ;
+  font-weight: 36px;
+  color: #778A50;
+  background-color:#EDF2C5;
+}
+body{
+  width: 940px;
+  height: 1260px;
+  background-color: #EDF2C5;
+}
+/*#first{
+float: left;
+}*/
+#facebook{
+  margin-top: 50px;
+  float: left;
+  margin-left: 476px;
+}
+#instagram{
+  float: left;
+  margin-left: 8px;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+#line{
+  font-family: Arial black;
+  float: left;
+  width: 1px;
+  height: 25px;
+  background-color: #778A50;
+  margin-top: 50px;
+}
+#login{
+  font-family: Arial black;
+  float: left;
+  color:  #778A50;
+  margin-left: 8px;
+  margin-top: 50px;
+  border: 1px solid #778A50;
+  border-radius: 3px;
+  padding: 1px;
+}
+#join{
+  font-family: Arial black;
+  float: left;
+  color:  #778A50;
+  margin-left: 8px;
+  margin-top: 50px;
+  border: 1px solid #778A50;
+  border-radius: 3px;
+  padding: 1px;
+}
+.second{
+  float: left;
+  margin-top: 10px;
+  width: 940px;
+  height: 34px;
+  background-color: #778A50;
+  padding-top: 10px;
+  border-radius: 3px;
+}
+
+.bigbody{
+  width: 940px;
+  height: 890px;
+  background-color:  #EDF2C5;
+  margin:0 160px;
+}
+nav a{
+  text-decoration: none;
+  font-size: 16px;
+  margin: 16px 30px;
+  font-family: Arial black;
+  color: white;
+}
+#pumpkin{
+  margin-top: 20px;
+}
+#left{
+  width: 416px ;
+  height: 34px;
+  background-color: #778A50;
+  padding-top: 10px;
+  border-radius: 3px;
+  float: left;
+}
+#right{
+  width: 416px ;
+  height: 34px;
+  background-color: #778A50;
+  padding-top: 10px;
+  border-radius: 3px;
+  float:right;
+}
+.title{
+  font-family: arial black;
+  font-size: 16px;
+  float: left;
+  color: white;
+  padding-left: 30px;
+  margin: 15px 0;
+}
+#pepper,#carrot,#corn{
+  width: 140px;
+  height: 140px;
+  margin-top: 15px;
+
+
+}
+#carrot{
+
+  margin: 0 9px;
+}
+
+#word{
+  width: 445px;
+  height: 140px;
+  background-color: #F7FBDA;
+  float: right;
+}
